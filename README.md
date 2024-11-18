@@ -6,4 +6,4 @@ O objetivo do projeto foi demonstrar habilidades de automação de testes, boas 
 
 ## Objetivo
 
-Automatizar os testes de uma aplicação web e API, criando scripts de testes que cubram os principais fluxos de funcionalidade e verifiquem a integridade da aplicação, com foco em:
+Automatizar os testes de uma aplicação web e API, criando scripts de testes que cubram os principais fluxos de funcionalidade e verifiquem a integridade da aplicação.
